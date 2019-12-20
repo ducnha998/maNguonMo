@@ -1,3 +1,8 @@
 1/ git add .
 2/ git commit -m "commit Doan_nuocngoy"
 3/ git push --set-upstream QuanlyDrink master
+
+back up
+1/ git revert "paste code version"
+2/ Ctr C
+3/ Shilf : + enter
