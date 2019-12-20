@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Doan_nuocngot</string>
+    <string name="title_activity_maps_about">Bản đồ</string>
+    <string name="textview_dangnhap_title">Đăng nhập</string>
+    <string name="textview_dangnhap_id">Tài khoản:</string>
+    <string name="textview_dangnhap_pass">Mật khẩu:</string>
+    <string name="text_acThem_tensp">Tên sản phẩm:</string>
+    <string name="text_acThem_loai">Loại:</string>
+    <string name="text_acThem_giaban">Giá bán:</string>
+    <string name="text_acThem_nxs">Nhà sản xuất:</string>
+    <string name="text_acThem_xuatxu">Xuất xứ:</string>
+    <string name="text_acThem_hinhanh">Hình ảnh</string>
+    <string name="btn_acThem_chonhinh">Chọn hình</string>
+    <string name="btn_acThem_luu">Lưu</string>
+    <string name="text_item_ten">Tên:</string>
+    <string name="atv_them">Thêm hoặc sửa sản phẩm</string>
+    <string name="avt_mainlist">Danh sách sản phẩm</string>
+    <string name="avt_login">Đăng Nhập</string>
+    <string name="app_quanlynuocngot">Quản lý nước ngọt</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doan_nuocngot</string>
+    <string name="textview_dangnhap_title">LOGIN</string>
+    <string name="title_activity_maps_about">Map</string>
+    <string name="textview_dangnhap_id">ID:</string>
+    <string name="textview_dangnhap_pass">Password:</string>
+    <string name="text_acThem_giaban">Price:</string>
+    <string name="text_acThem_nxs">Producer:</string>
+    <string name="text_acThem_xuatxu">Origin:</string>
+    <string name="text_acThem_tensp">Name:</string>
+    <string name="text_acThem_loai">Kind:</string>
+    <string name="text_acThem_hinhanh">Image</string>
+    <string name="btn_acThem_chonhinh">Select</string>
+    <string name="btn_acThem_luu">Save</string>
+    <string name="text_item_ten">Name:</string>
+    <string name="atv_them">Add and update</string>
+    <string name="avt_mainlist">List product</string>
+    <string name="avt_login">Login</string>
+    <string name="app_quanlynuocngot">Drink manager</string>
+</resources>
